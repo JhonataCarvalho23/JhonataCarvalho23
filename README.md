@@ -52,6 +52,5 @@ Me chamo Jhonata Carvalho Silva, tenho 16 anos e sou de São Paulo. Atualmente, 
   <h3>🌐 Conecte-se Comigo</h3>
   <p>Entre em contato pelo email:</p>
   <p>jhoncsilva28v@gmail.com</p>
-    <img src="logo_email.jpg" height="70" width="90" alt="LinkedIn" />
-  </a>
+    <img src="logo_email.jpg" height="70" width="90"/>
 </div>
