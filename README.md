@@ -41,7 +41,7 @@ Me chamo Jhonata Carvalho Silva, tenho 16 anos e sou de São Paulo. Atualmente, 
   <h3>📊 Principais linguagens que utilizo:</h3>
   <br>
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataCarvalho23&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"  align="left" alt="GitHub Stats"  height="200" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JhonataCarvalho23&theme=radical" alt="Linguagens por Repositório" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);" />
   </div>
 <br>
 </div>
