@@ -52,5 +52,6 @@
   <h3 style="color: white;">🌐 Conecte-se Comigo</h3>
   <p style="color: white;">Entre em contato pelo email ou pelo linkedin:</p>
   <p style="color: white;">jhoncsilva28v@gmail.com</p>
-  <p style="color: white;">Jhonata Carvalho</p>
+  <a href="https://www.linkedin.com/in/jhonata-carvalho-235742387/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </div>
