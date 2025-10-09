@@ -50,7 +50,7 @@
 
 <div align="center">
   <h3 style="color: white;">🌐 Conecte-se Comigo</h3>
-  <p style="color: white;">Entre em contato pelo email:</p>
+  <p style="color: white;">Entre em contato pelo email ou pelo linkedin:</p>
   <p style="color: white;">jhoncsilva28v@gmail.com</p>
-  <a href="https://www.linkedin.com/in/jhonata-carvalho-235742387/" style="text-decoration: none; color: white;">🔗Jhonata Carvalho</a>
+  <p style="color: white;">Jhonata Carvalho</p>
 </div>
