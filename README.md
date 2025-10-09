@@ -2,11 +2,11 @@
 
 **`Progamador`**
 
-Me chamo Jhonata Carvalho Silva, tenho 16 anos e sou de São Paulo. Atualmente, estou cursando Desenvolvimento de Sistema no Major Telmo Coelho Filho e sou apaixonado por tecnologia.
+<p style="color: white;">Me chamo Jhonata Carvalho Silva, tenho 16 anos e sou de São Paulo. Atualmente, estou cursando Desenvolvimento de Sistema no Major Telmo Coelho Filho e sou apaixonado por tecnologia.</p>
 
 <div align="center">
-  <h3>💻 Linguagens e Ferramentas</h3>
-  <p>As principais tecnologias que utilizo no meu dia a dia:</p>
+  <h3 style="color: white;">💻 Linguagens e Ferramentas</h3>
+  <p style="color: white;">As principais tecnologias que utilizo no meu dia a dia:</p>
   <br>
   
   <!-- Linguagens -->
@@ -30,15 +30,15 @@ Me chamo Jhonata Carvalho Silva, tenho 16 anos e sou de São Paulo. Atualmente, 
 
 
 <div align="center">
-  <h3>📈 Estatísticas e Contribuições</h3>
-  <p>Um resumo das minhas atividades no GitHub:</p>
+  <h3 style="color: white;">📈 Estatísticas e Contribuições</h3>
+  <p style="color: white;">Um resumo das minhas atividades no GitHub:</p>
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonataCarvalho23&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" />
   </div>
 </div>
 
 <div align="center">
-  <h3>📊 Principais linguagens que utilizo:</h3>
+  <h3 style="color: white;">📊 Principais linguagens que utilizo:</h3>
   <br>
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JhonataCarvalho23&theme=radical" alt="Linguagens por Repositório" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);" />
@@ -49,8 +49,8 @@ Me chamo Jhonata Carvalho Silva, tenho 16 anos e sou de São Paulo. Atualmente, 
 ---
 
 <div align="center">
-  <h3>🌐 Conecte-se Comigo</h3>
-  <p>Entre em contato pelo email:</p>
-  <p>jhoncsilva28v@gmail.com</p>
-  <a href="https://www.linkedin.com/in/jhonata-carvalho-235742387/">Linkedin</a>
+  <h3 style="color: white;">🌐 Conecte-se Comigo</h3>
+  <p style="color: white;">Entre em contato pelo email:</p>
+  <p style="color: white;">jhoncsilva28v@gmail.com</p>
+  <a href="https://www.linkedin.com/in/jhonata-carvalho-235742387/" style="text-decoration: none; color: white;">🔗Jhonata Carvalho</a>
 </div>
