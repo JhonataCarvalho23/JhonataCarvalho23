@@ -2,7 +2,7 @@
 
 **`Progamador`**
 
-<p style="color: white;">Me chamo Jhonata Carvalho Silva, tenho 16 anos e sou de São Paulo. Atualmente, estou cursando Desenvolvimento de Sistema no Major Telmo Coelho Filho e sou apaixonado por tecnologia.</p>
+<p style="color: white;">Me chamo Jhonata Carvalho Silva, tenho 17 anos e sou de São Paulo. Atualmente, estou cursando Desenvolvimento de Sistema na instituição Major Telmo Coelho Filho e sou entusiasta da tecnologia.</p>
 
 <div align="center">
   <h3 style="color: white;">💻 Linguagens e Ferramentas</h3>
@@ -11,7 +11,7 @@
   
   <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="15" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
@@ -29,13 +29,6 @@
 
 
 
-<div align="center">
-  <h3 style="color: white;">📈 Estatísticas e Contribuições</h3>
-  <p style="color: white;">Um resumo das minhas atividades no GitHub:</p>
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonataCarvalho23&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" />
-  </div>
-</div>
 
 <div align="center">
   <h3 style="color: white;">📊 Principais linguagens que utilizo:</h3>
