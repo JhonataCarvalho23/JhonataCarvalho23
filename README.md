@@ -14,9 +14,20 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
 
-  <img src="https://www.google.com/search?q=java+logo&client=ms-android-motorola-rvo3&hs=LCGV&sca_esv=9fc0643cb5b0db60&udm=2&biw=420&bih=765&sxsrf=ANbL-n6e7IGctNZmWwIsBA7arx--r8_rSQ%3A1779318057830&ei=KT0OavamMoTL1sQPiMSy2AE&oq=java+logo&gs_lp=EhJtb2JpbGUtZ3dzLXdpei1pbWciCWphdmEgbG9nbzIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBBAAGB5ImBZQtghYsBRwAngAkAEAmAGrAaABpgqqAQMwLjm4AQPIAQD4AQGYAgugAqwLqAIFwgIKECMYJxjJAhjqAsICBxAjGCcYyQLCAgsQABiABBixAxiDAcICCBAAGIAEGLEDwgIOEAAYgAQYsQMYgwEYigXCAgoQABiABBhDGIoFwgINEAAYgAQYsQMYQxiKBcICDRAAGIAEGLEDGIMBGAqYAxCSBwMyLjmgB78ZsgcDMC45uAeOC8IHBTItNC43yAeCAYAIAA&sclient=mobile-gws-wiz-img#sv=CAMSVxoyKhBlLUpTVEFxUmpsZ25WLUhNMg5KU1RBcVJqbGduVi1ITToOcTdtdWNsbUJTNXNXME0gBCoXCgFzEhBlLUpTVEFxUmpsZ25WLUhNGAEwAUoECAEQAhgHIKnEi9MISggQAhgBIAIoAQ" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javaScript logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  
 <br><br>
 
 </div>
