@@ -1,63 +1,68 @@
-# 👩🏻‍💻 Jhonata Carvalho
-
-**`Progamador`**
-
-<p style="color: white;">Me chamo Jhonata Carvalho Silva, tenho 17 anos e sou de São Paulo. Atualmente, estou cursando Desenvolvimento de Sistema na instituição Major Telmo Coelho Filho e sou entusiasta da tecnologia.</p>
-
 <div align="center">
-  <h3 style="color: white;">💻 Linguagens e Ferramentas</h3>
-  <p style="color: white;">As principais tecnologias que utilizo no meu dia a dia:</p>
-  <br>
-  
-  <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javaScript logo" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  
-<br><br>
+# 👋 Olá! Eu sou Jhonata Carvalho Silva
 
 </div>
 
-
-
-
-
+🎓Meu nome é Jhonata Carvalho Silva, tenho 17 anos, moro em São Paulo e estou cursando simultaneamente o 3º ano do Ensino Médio e o 2º ano do técnico em Desenvolvimento de Sistemas na E.E. Major Telmo Coelho Filho. Tenho forte inclinação para programação, lógica e desenvolvimento web, com o objetivo consolidado de atuar no Back-End com Java, sem deixar de aprimorar minhas competências em Front-End. Busco crescer técnica e profissionalmente através do estudo contínuo e de projetos práticos, focando não apenas na escrita do código, mas também na arquitetura, estrutura e organização das aplicações.
 
 ---
 
+<div align="center">
 
+## 🚀 Sobre mim
 
+</div>
 
+- 💻 Estudando desenvolvimento de software
+- ☕ Aprendendo e praticando **Java**
+- 🌐 Desenvolvendo projetos com **HTML, CSS e JavaScript**
+- 🐍 Tenho conhecimentos em **Python**
+- 🗄️ Estudando bancos de dados e desenvolvimento de sistemas
+- 📚 Sempre buscando aprender novas tecnologias
+
+---
 
 <div align="center">
-  <h3 style="color: white;">📊 Principais linguagens que utilizo:</h3>
-  <br>
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JhonataCarvalho23&theme=radical" alt="Linguagens por Repositório" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);" />
-  </div>
-<br>
+
+## 🛠️ Tecnologias e Ferramentas
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git,github,figma,react,mongodb,nodejs,express,spring" />
+
 </div>
 
 ---
 
 <div align="center">
-  <h3 style="color: white;">🌐 Conecte-se Comigo</h3>
-  <p style="color: white;">Entre em contato pelo email ou pelo linkedin:</p>
-  <p style="color: white;">jhoncsilva28v@gmail.com</p>
-  <a href="https://www.linkedin.com/in/jhonata-carvalho-235742387/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+## 📊 Estatísticas do GitHub
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JhonataCarvalho23&theme=radical" alt="Linguagens por Repositório" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Onde me encontrar
+
+<a href="https://www.linkedin.com/in/jhonatacarvalhosilva/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:jhoncsilva28v@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 A melhor forma de aprender programação é criando projetos.
+
+
 </div>
